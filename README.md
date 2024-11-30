@@ -12,10 +12,10 @@ I'm a passionate software developer with a focus on frontend development and a l
 🌱 Currently learning about TypeScript, GraphQL, and machine learning.
 
 ## 🎯 Projects:
+- Developed a medicine shopping website with a login system, product database, and purchase functionality using Django, PostgreSQL, and Bootstrap.
+- Building a workout generator app with React that customizes workouts based on muscle group selection.
+- Creating a memory card game in React with a dynamic scoring system and game reset functionality.
 
-Developed a medicine shopping website with a login system, product database, and purchase functionality using Django, PostgreSQL, and Bootstrap.
-Building a workout generator app with React that customizes workouts based on muscle group selection.
-Creating a memory card game in React with a dynamic scoring system and game reset functionality.
 💬 Feel free to reach out if you're interested in collaborating or discussing tech! Let's connect and build something amazing together. 🚀
 
 
