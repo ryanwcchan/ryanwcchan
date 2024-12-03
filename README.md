@@ -1,5 +1,5 @@
 ## Hi, I'm Ryan 👋
-I'm a passionate software developer with a focus on frontend development and a love for building intuitive and responsive web applications. I recently graduated with a Bachelor's degree in Information Technology from Ontario Tech University, and I am always eager to expand my knowledge in full-stack development, React, JavaScript, and machine learning.
+I'm a passionate software developer with a love for building intuitive and responsive web applications. I recently graduated with a Bachelor's degree in Information Technology from Ontario Tech University, and I am always eager to expand my knowledge in full-stack development, React, JavaScript, and machine learning.
 
 ## Technologies & Tools:
 - Frontend: React, HTML, CSS, JavaScript, Bootstrap, TailwindCSS
