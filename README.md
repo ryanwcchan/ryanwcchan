@@ -5,7 +5,7 @@ I'm a passionate software developer with a love for building intuitive and respo
 https://ryanwcchan.github.io/portfolio/
 
 ## Technologies & Tools:
-- Frontend: React, HTML, CSS, JavaScript, Bootstrap, TailwindCSS
+- Frontend: React, HTML, CSS, JavaScript, TypeScript, Bootstrap, TailwindCSS
 - Backend: Node.js, Express, Python, Django, Flask
 - Databases: PostgreSQL, MySQL, MongoDB
 - Version Control: Git, GitHub
