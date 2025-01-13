@@ -1,8 +1,6 @@
 ## Hi, I'm Ryan 👋
-I'm a passionate software developer with a love for building intuitive and responsive web applications. I recently graduated with a Bachelor's degree in Information Technology from Ontario Tech University, and I am always eager to expand my knowledge in full-stack software development.
+I am an aspiring web developer.
 
-## My Personal Website
-https://ryanwcchan.github.io/portfolio/
 
 <!--
 ## Technologies & Tools:
