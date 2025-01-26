@@ -1,5 +1,4 @@
 ## Hi, I'm Ryan 👋
-I am an aspiring software developer.
 
 
 <!--
