@@ -2,9 +2,6 @@
 
 I am a recent information technology graduate with experience in frontend development. Currently I have been learning and working on full-stack projects through The Odin Project and other online resources.
 
-My website: https://www.ryanwcchan.com/
-My LinkedIn: https://linkedin.com/in/ryanwcchan
-
 <!--
 ## Technologies & Tools:
 - Frontend: React, HTML, CSS, JavaScript, TypeScript, Bootstrap, TailwindCSS
