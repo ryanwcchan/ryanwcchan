@@ -1,6 +1,8 @@
-## Hi, I'm Ryan 👋
-My website: https://www.ryanwcchan.com/
+### Hi, I'm Ryan 👋
 
+I am a recent information technology graduate with experience in frontend development. Currently I have been learning and working on full-stack projects through The Odin Project and other online resources.
+
+My website: https://www.ryanwcchan.com/
 My LinkedIn: https://linkedin.com/in/ryanwcchan
 
 <!--
